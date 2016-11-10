@@ -1,5 +1,5 @@
 {
-  "name": "redis-counter",
+  "name": "tribe-redis-counter",
   "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
